@@ -11,7 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/diya-burman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diya-burman" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/diya-burman-13981b262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diya-burman-13981b262" height="30" width="40" /></a>
+<a href="https://instagram.com/di_yaa3300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="di_yaa3300" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/diya2023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="diya2023" height="30" width="40" /></a>
 </p>
 
@@ -23,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diya-burman&show_icons=true&locale=en" alt="diya-burman" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diya-burman&" alt="diya-burman" /></p>
-
