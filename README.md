@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diya-burman" alt="diya-burman" /></a> </p>
 
-- 🔭 I’m currently working on **StockSphere**
+- 🔭 I’m currently working on **FluxFunds**
 
 - 📫 How to reach me **diyaburman60@gmail.com**
 
