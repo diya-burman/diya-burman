@@ -8,7 +8,6 @@
 <div align="left"><!-- Left Side Content -->
   <div style="display: inline-block; width: 45%; text-align: left;">
     - 💻 I’m currently learning <b>Artificial Intelligence/Machine Learning</b> and proficient in <b>Full-Stack Web Development</b> <br>
-    - 🎨 I enjoy <b>designing</b> using tools like Adobe Photoshop & Canva <br>
     - 📧 How to reach me <b>diyaburman60@gmail.com</b>
 
 <h3 align="left">Connect with me:</h3>
